@@ -22,17 +22,19 @@
 [Coffeescript](http://coffeescript.org/) - *Little language that compiles into JavaScript* 
 
 ## PHP
-[Memcached](http://www.slideshare.net/phpprog/php-i-memcached-zaawansowane-przypadki-uycia)
+[Memcached](http://www.slideshare.net/phpprog/php-i-memcached-zaawansowane-przypadki-uycia) - Advanced Memcached use cases
 
 ## Zend
 [Zend-quick-start](http://framework.zend.com/manual/2.0/en/modules/zend.mvc.quick-start.html) - Quick start with ZF2
 
 ## Magento
 [nginx](http://docs.nostresscommerce.com:8090/display/~tomas.kucera/2013/02/16/Cookie-less+domains+for+Magento+static+content+served+by+Nginx) - Speed up magento with static content served by Nginx
+
 [apc-memcached](http://www.magebase.com/magento-tutorials/speeding-up-magento-with-apc-or-memcached/) - Speed up magento with apc or memcached
 
 
 
 ## Hosting/VPS
 [lowendbox](http://www.lowendbox.com/) - List of low-end VPS
+
 [digitalocean](https://www.digitalocean.com/) - Cheap VPS with SSD Drives
