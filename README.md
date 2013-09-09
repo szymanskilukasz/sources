@@ -3,11 +3,14 @@
 ## Categories
 
 + Python/Django
++ Ruby/Ruby on Rails
 + PHP
 + JS
 + Hosting/VPS
 
 ## Python/Django
+
+[Learn Python The Hard Way](http://learnpythonthehardway.org/) - *Python course*
 
 [Virtualenv](https://pypi.python.org/pypi/virtualenv) - *Tool to create isolated Python environments*
 
@@ -24,6 +27,12 @@
 [Sorl-thumbnail](https://github.com/sorl/sorl-thumbnail) - *Thumbnails for Django*
 
 [HamlPy](https://github.com/jessemiller/HamlPy) - *A converter of HAML like templates into Django templates.*
+
+## Ruby/Ruby on Rails
+
+[Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/) - *Ruby course*
+
+[Ruby on Rails](http://rubyonrails.org/)
 
 ## PHP
 
