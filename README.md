@@ -12,6 +12,8 @@
 
 [Learn Python The Hard Way](http://learnpythonthehardway.org/) - *Python course*
 
+[Python API](http://www.pythonapi.com/) - *List of python wrappers for APIs*
+
 [Virtualenv](https://pypi.python.org/pypi/virtualenv) - *Tool to create isolated Python environments*
 
 [Django](https://www.djangoproject.com/) - *Python web framework*
