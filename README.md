@@ -38,7 +38,7 @@
 
 ### Frameworks
 
-[Symfony2](http://symfony.com/)
+[Symfony2](http://symfony.com/) 
 
 [Zend Framework 2](http://framework.zend.com/)
 
@@ -49,6 +49,11 @@
 [Twig](http://twig.sensiolabs.org/) - *Template engine*
 
 ## JS
+
+[AngularJS](http://angularjs.org/) - *JS framework*
+
++ [thinkster](http://www.thinkster.io/) - *AngularJS tutorial*
+
 [Coffeescript](http://coffeescript.org/) - *Little language that compiles into JavaScript* 
 
 ## Hosting/VPS
