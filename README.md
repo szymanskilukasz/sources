@@ -32,7 +32,7 @@
 
 [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/) - *Ruby course*
 
-[Ruby on Rails](http://rubyonrails.org/)
+[Ruby on Rails](http://rubyonrails.org/) - *Ruby web framework*
 
 ## PHP
 
