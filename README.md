@@ -19,4 +19,11 @@
 [HamlPy](https://github.com/jessemiller/HamlPy) - *A converter of HAML like templates into Django templates.*
 
 ## JS
+
 [Coffeescript](http://coffeescript.org/) - *Little language that compiles into JavaScript* 
+
+## PHP
+
+[Symfony](http://symfony.com/) - *PHP web framework*
+
+[Twig](http://twig.sensiolabs.org/) - *Template engine for PHP*
