@@ -32,9 +32,13 @@
 
 ## Ruby/Ruby on Rails
 
+[Learn Ruby](http://rubykoans.com/) - *Ruby course*
+
 [Learn Ruby The Hard Way](http://ruby.learncodethehardway.org/) - *Ruby course*
 
 [Ruby on Rails](http://rubyonrails.org/) - *Ruby web framework*
+
+[Ruby on Rails Screencasts](http://railscasts.com/) - *Screencasts for Ruby on Rails*
 
 ## PHP
 
@@ -52,6 +56,8 @@
 
 ## JS
 
+[Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/) - *JS tutorial*
+
 [AngularJS](http://angularjs.org/) - *JS framework*
 
 + [thinkster](http://www.thinkster.io/) - *AngularJS tutorial*
@@ -63,3 +69,14 @@
 [lowendbox](http://www.lowendbox.com/) - List of low-end VPS
 
 [digitalocean](https://www.digitalocean.com/) - Cheap VPS with SSD Drives
+
+## Other
+
+[Become a programmer](http://programming-motherfucker.com/become.html) - *List of free books and sources (not only for web development)*
+
+[Codeacademy](http://www.codecademy.com/) - *Learn to code, interactively, for free*
+
+
+#### Credits for:
+
+[kwojc](https://github.com/kwojc), [marcinpaluch](https://github.com/marcinpaluch)
