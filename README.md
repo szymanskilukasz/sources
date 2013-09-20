@@ -62,6 +62,10 @@
 
 + [thinkster](http://www.thinkster.io/) - *AngularJS tutorial*
 
+[Backbonejs](http://documentcloud.github.io/backbone/) - *JS framework*
+
++ [Backbonejs patterns](http://ricostacruz.com/backbone-patterns/) - good practices for Backbone apps
+
 [Coffeescript](http://coffeescript.org/) - *Little language that compiles into JavaScript* 
 
 ## Hosting/VPS
