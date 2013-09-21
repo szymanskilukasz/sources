@@ -64,9 +64,17 @@
 
 [Backbonejs](http://documentcloud.github.io/backbone/) - *JS framework*
 
-+ [Backbonejs patterns](http://ricostacruz.com/backbone-patterns/) - good practices for Backbone apps
++ [Backbonejs patterns](http://ricostacruz.com/backbone-patterns/) - *Good practices for Backbone apps* 
 
 [Coffeescript](http://coffeescript.org/) - *Little language that compiles into JavaScript* 
+
+[Nodejs](http://nodejs.org/) - *Real-time applications*
+
++ [How to node](http://howtonode.org/) - *The zen of coding in node.js*
+
+[Express](http://expressjs.com/) - *Node.js framework*
+
+[Socket.io](http://socket.io/) - *Abstraction layer for Node.js*
 
 ## Hosting/VPS
 
