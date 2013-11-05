@@ -20,6 +20,8 @@
 
 [Django-suit](http://djangosuit.com/) - *Modern theme for Django admin interface*
 
+[Django-Grappelli](https://github.com/sehmaschine/django-grappelli) - *Not as nice as Suit, but free admin theme/replacement*
+
 [Django-admin-sortable](https://github.com/iambrandontaylor/django-admin-sortable) - *Generic drag-and-drop ordering for objects and tabular inlines in Django Admin*
 
 [Django-South](http://south.aeracode.org/) - *Intelligent schema and data migrations for ​Django projects*
@@ -29,6 +31,8 @@
 [Sorl-thumbnail](https://github.com/sorl/sorl-thumbnail) - *Thumbnails for Django*
 
 [HamlPy](https://github.com/jessemiller/HamlPy) - *A converter of HAML like templates into Django templates.*
+
+[PyJade](https://github.com/SyrusAkbary/pyjade) - *Jade templates for Python*
 
 ## Ruby/Ruby on Rails
 
