@@ -38,3 +38,10 @@
 [lowendbox](http://www.lowendbox.com/) - List of low-end VPS
 
 [digitalocean](https://www.digitalocean.com/) - Cheap VPS with SSD Drives
+
+## Symfony2
+[performance](http://labs.octivi.com/mastering-symfony2-performance-internals/) - Few performance hints
+
+[twig-cache-extension](https://github.com/asm89/twig-cache-extension) - Missing twig extension (need own bundle to run)
+
+[LadybugBundle](https://github.com/raulfraile/LadybugBundle) - Symfony2 bundle for Ladybug library
