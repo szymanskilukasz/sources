@@ -86,6 +86,7 @@
 
 [digitalocean](https://www.digitalocean.com/) - Cheap VPS with SSD Drives
 
+<<<<<<< HEAD
 ## Other
 
 [Become a programmer](http://programming-motherfucker.com/become.html) - *List of free books and sources (not only for web development)*
@@ -96,3 +97,11 @@
 #### Credits for:
 
 [kwojc](https://github.com/kwojc), [marcinpaluch](https://github.com/marcinpaluch)
+=======
+## Symfony2
+[performance](http://labs.octivi.com/mastering-symfony2-performance-internals/) - Few performance hints
+
+[twig-cache-extension](https://github.com/asm89/twig-cache-extension) - Missing twig extension (need own bundle to run)
+
+[LadybugBundle](https://github.com/raulfraile/LadybugBundle) - Symfony2 bundle for Ladybug library
+>>>>>>> pr/3
