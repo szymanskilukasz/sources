@@ -54,6 +54,13 @@
 
 [Laravel](http://laravel.com/)
 
+## Symfony2
+[performance](http://labs.octivi.com/mastering-symfony2-performance-internals/) - Few performance hints
+
+[twig-cache-extension](https://github.com/asm89/twig-cache-extension) - Missing twig extension (need own bundle to run)
+
+[LadybugBundle](https://github.com/raulfraile/LadybugBundle) - Symfony2 bundle for Ladybug library
+
 ### Other
 
 [Twig](http://twig.sensiolabs.org/) - *Template engine*
@@ -91,7 +98,6 @@
 [Become a programmer](http://programming-motherfucker.com/become.html) - *List of free books and sources (not only for web development)*
 
 [Codeacademy](http://www.codecademy.com/) - *Learn to code, interactively, for free*
-
 
 #### Credits for:
 
